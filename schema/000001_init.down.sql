@@ -1,0 +1,12 @@
+-- Active: 1703365925535@@127.0.0.1@5433@postgres
+
+--DROP SCHEMA IF EXISTS db CASCADE;
+DROP TABLE IF EXISTS lists_items;
+
+DROP TABLE IF EXISTS user_lists;
+
+DROP TABLE IF EXISTS todo_lists;
+
+DROP TABLE IF EXISTS users;
+
+DROP TABLE IF EXISTS todo_items;
